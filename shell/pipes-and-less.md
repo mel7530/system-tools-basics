@@ -1,3 +1,16 @@
+---
+title: |
+  Pipes und less
+  \vspace{2cm}
+  Textbasierte Filter- und Rezeptionsmechanismen in der Kommandozeilenarbeit
+author: "Melanie Lorek, B.A. – Verwaltungswissenschaften, Politikwissenschaften und Soziologie"
+date: "Dezember 2025"
+---
+
+\vspace {4cm}
+
+\newpage
+
 ### Perspektive
 
 Die Darstellung berücksichtigt,dass textbasierte Systemarbeit
@@ -40,8 +53,8 @@ Viele systemnahe Befehle erzeugen umfangreiche Textmengen,
 die ohne weitere Verarbeitung unmittelbar und vollständig im Terminal
 ausgegeben werden.
 
----
-**Exkurs: Begriffsklärung „Kommandozeilenbefehl“**
+
+#**Exkurs: Begriffsklärung „Kommandozeilenbefehl“**
 
 Unter Kommandozeilenbefehlen werden im Folgenden
 textuelle Anweisungen verstanden,
@@ -49,7 +62,7 @@ die in einer Shell eingegeben werden
 und die Ausführung von Programmen sowie die Ausgabe
 entsprechender Textinformationen auslösen.
 
----
+
 
 Diese Form der Darstellung führt häufig zu einer textuellen Überlastung,
 bei der relevante Informationen nur eingeschränkt rezipiert werden können.
